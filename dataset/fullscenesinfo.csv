@@ -2,12 +2,12 @@ fullscenename,objectsincluded
 scene1.ply,object1.ply;object2.ply;object3.ply;object4.ply;object5.ply;object6.ply;object7.ply;object8.ply;object9.ply;object10.ply;object11.ply
 scene2.ply,object1.ply;object2.ply;object3.ply;object4.ply;object5.ply;object6.ply;object7.ply;object8.ply;object9.ply;object10.ply;object11.ply;object12.ply
 scene3.ply,object1.ply;object2.ply;object3.ply;object4.ply;object5.ply;object6.ply;object7.ply;object8.ply;object9.ply;object10.ply;object11.ply;object12.ply;object13.ply
-scene4.ply,object1.ply;object2.ply;object3.ply;object4.ply;object5.ply;object6.ply;object7.ply;object8.ply;object9.ply;object10.ply;object11.ply;object12.ply;object13.ply;object14.ply
-scene5.ply,object1.ply;object2.ply;object3.ply;object4.ply;object5.ply;object6.ply;object7.ply;object8.ply;object9.ply;object10.ply;object11.ply;object12.ply;object13.ply;object14.ply;object15.ply
-scene6.ply,object1.ply;object2.ply;object3.ply;object4.ply;object5.ply;object7.ply;object8.ply;object9.ply;object10.ply;object11.ply;object12.ply;object13.ply;object14.ply;object15.ply;object16.ply
-scene7.ply,object1.ply;object2.ply;object3.ply;object4.ply;object5.ply;object7.ply;object8.ply;object9.ply;object10.ply;object11.ply;object12.ply;object13.ply;object14.ply;object15.ply;object16.ply;object17.ply
-scene8.ply,object1.ply;object2.ply;object3.ply;object4.ply;object5.ply;object7.ply;object8.ply;object9.ply;object10.ply;object11.ply;object12.ply;object13.ply;object14.ply;object15.ply;object16.ply;object17.ply;object18.ply;object19.ply;object20.ply
-scene9.ply,object1.ply;object2.ply;object3.ply;object4.ply;object5.ply;object7.ply;object8.ply;object9.ply;object10.ply;object11.ply;object12.ply;object13.ply;object14.ply;object15.ply;object16.ply;object17.ply;object18.ply;object19.ply;object20.ply;object21.ply;object22.ply;object23.ply
+scene4.ply,object1.ply;object2.ply;object3.ply;object4.ply;object5.ply;object6.ply;object7.ply;object8.ply;object9.ply;object10.ply;object11.ply;object12.ply;object14.ply
+scene5.ply,object1.ply;object2.ply;object3.ply;object4.ply;object5.ply;object6.ply;object7.ply;object8.ply;object9.ply;object10.ply;object11.ply;object12.ply;object14.ply;object15.ply
+scene6.ply,object1.ply;object2.ply;object3.ply;object4.ply;object5.ply;object7.ply;object8.ply;object9.ply;object10.ply;object11.ply;object12.ply;object14.ply;object15.ply;object16.ply
+scene7.ply,object1.ply;object2.ply;object3.ply;object4.ply;object5.ply;object7.ply;object8.ply;object9.ply;object10.ply;object11.ply;object12.ply;object14.ply;object15.ply;object16.ply;object17.ply
+scene8.ply,object1.ply;object2.ply;object3.ply;object4.ply;object5.ply;object7.ply;object8.ply;object9.ply;object10.ply;object11.ply;object12.ply;object14.ply;object15.ply;object16.ply;object17.ply;object18.ply;object19.ply;object20.ply
+scene9.ply,object1.ply;object2.ply;object3.ply;object4.ply;object5.ply;object7.ply;object8.ply;object9.ply;object10.ply;object11.ply;object12.ply;object14.ply;object15.ply;object16.ply;object17.ply;object18.ply;object19.ply;object20.ply;object21.ply;object22.ply;object23.ply
 
 
 
